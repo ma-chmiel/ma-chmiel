@@ -2,7 +2,7 @@
 I'm a developer based in Australia, having graduated with a Bachelor's in Computer Science from UNSW in 2022. Feel free to check out my projects and learnings here!
 
 ## 🪐 Current Endevors
-I'm currently working as a fullstack developer in Australia.
+I'm currently working as a fullstack developer in Sydney, Australia.
 
 ## 📫 Contact
 DM me on [Linkedin](https://www.linkedin.com/in/maja-sieczko)

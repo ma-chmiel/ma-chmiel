@@ -1,7 +1,8 @@
 ### Hey, I'm Maja 👋
-
+I'm a developer based in Australia. Check out my projects and learnings here!
 
 ## 🔭 Current Endevors
+I'm currently working as a fullstack developer in Sydney.
 
 ## 📫 Contact
 DM me on [Linkedin](https://www.linkedin.com/in/maja-sieczko)

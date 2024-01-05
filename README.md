@@ -4,6 +4,14 @@ I'm a developer based in Australia, having graduated with a Bachelor's in Comput
 ## 🪐 Current Endevors
 I'm currently working as a fullstack developer in Sydney, Australia.
 
+## 🌱 Always Learning
+- Drupal
+- Laravel
+- Python
+- Javascript
+- NextJS
+- Docker
+
 ## 📫 Contact
 DM me on [Linkedin](https://www.linkedin.com/in/maja-sieczko)
 

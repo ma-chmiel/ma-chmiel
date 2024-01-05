@@ -1,7 +1,7 @@
-### Hey, I'm Maja 👋
+### Hey, I'm Maja 🪩
 I'm a developer based in Australia. Check out my projects and learnings here!
 
-## 🔭 Current Endevors
+## 🪐 Current Endevors
 I'm currently working as a fullstack developer in Australia.
 
 ## 📫 Contact
@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🪩
+- 🪐
 -->

@@ -1,9 +1,10 @@
 ### Hey, I'm Maja 👋
 
 
-# 🔭 Current Endevors
+## 🔭 Current Endevors
 
-# 📫 Contact
+## 📫 Contact
+DM me on [Linkedin](https://www.linkedin.com/in/maja-sieczko)
 
 <!--
 **ma-chmiel/ma-chmiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

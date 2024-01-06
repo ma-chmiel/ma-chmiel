@@ -5,12 +5,19 @@ I'm a developer based in Australia, having graduated with a Bachelor's in Comput
 I'm currently working as a fullstack developer in Sydney, Australia.
 
 ## 🌱 Always Learning
+I code for work an play, always learning new things but here's a current list of the languages and technologies I'm getting to know:
+
 - Drupal
 - Laravel
+- PHP
 - Python
 - Javascript
 - NextJS
 - Docker
+- Figma
+- Tailwind
+- CSS / HTML
+- C
 
 ## 📫 Contact
 DM me on [Linkedin](https://www.linkedin.com/in/maja-sieczko)

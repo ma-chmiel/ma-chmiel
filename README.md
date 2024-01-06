@@ -1,10 +1,10 @@
 ### Hey, I'm Maja 🪩
 I'm a developer based in Australia, having graduated with a Bachelor's in Computer Science from UNSW in 2023. Feel free to check out my projects and learnings here!
 
-## 🪐 Current Endevors
+### 🪐 Current Endevors
 I'm currently working as a fullstack developer in Sydney, Australia.
 
-## 🌱 Always Learning
+### 🌱 Always Learning
 I code for work an play, always learning new things - here's a  list of the languages and technologies I'm currently getting to know:
 
 - Drupal
@@ -19,13 +19,11 @@ I code for work an play, always learning new things - here's a  list of the lang
 - CSS / HTML
 - C
 
-## 📫 Contact
+### 📫 Contact
 I'm always keen to chat, get in touch on [Linkedin](https://www.linkedin.com/in/maja-sieczko)
 
 <!--
 **ma-chmiel/ma-chmiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

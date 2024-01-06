@@ -20,7 +20,7 @@ I code for work an play, always learning new things - here's a  list of the lang
 - C
 
 ## 📫 Contact
-DM me on [Linkedin](https://www.linkedin.com/in/maja-sieczko)
+I'm always keen to chat, get in touch on [Linkedin](https://www.linkedin.com/in/maja-sieczko)
 
 <!--
 **ma-chmiel/ma-chmiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

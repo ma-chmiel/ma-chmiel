@@ -1,10 +1,10 @@
-### Hey, I'm Maja 🪩
+## Hey, I'm Maja 🪩
 I'm a developer based in Australia, having graduated with a Bachelor's in Computer Science from UNSW in 2023. Feel free to check out my projects and learnings here!
 
-### 🪐 Current Endevors
+## 🪐 Current Endevors
 I'm currently working as a fullstack developer in Sydney, Australia.
 
-### 🔭 Always Learning
+## 🔭 Always Learning
 
 ```
   languages = [PHP, Javascript, C, Python, HTML, CSS]
@@ -13,7 +13,7 @@ I'm currently working as a fullstack developer in Sydney, Australia.
   cms = [Drupal]
 ```
 
-### 📫 Contact
+## 📫 Contact
 I'm always keen to chat, get in touch on [Linkedin](https://www.linkedin.com/in/maja-sieczko)
 
 <!--

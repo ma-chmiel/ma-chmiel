@@ -4,25 +4,15 @@ I'm a developer based in Australia, having graduated with a Bachelor's in Comput
 ### 🪐 Current Endevors
 I'm currently working as a fullstack developer in Sydney, Australia.
 
-### 🌱 Always Learning
+### 🔭 Always Learning
+
 ```
-  Hello World
+  languages = [PHP, Javascript, C, Python, HTML, CSS]
+  frameworks = [Laravel, NextJS, Tailwind]
+  tools = [Docker, Figma]
+  cms = [Drupal]
+  
 ```
-
-
-I code for work and play, always learning new things - here's a  list of the languages and technologies I'm currently getting to know:
-
-- Drupal
-- Laravel
-- PHP
-- Python
-- Javascript
-- NextJS
-- Docker
-- Figma
-- Tailwind
-- CSS / HTML
-- C
 
 ### 📫 Contact
 I'm always keen to chat, get in touch on [Linkedin](https://www.linkedin.com/in/maja-sieczko)

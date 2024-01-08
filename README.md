@@ -11,7 +11,6 @@ I'm currently working as a fullstack developer in Sydney, Australia.
   frameworks = [Laravel, NextJS, Tailwind]
   tools = [Docker, Figma]
   cms = [Drupal]
-  
 ```
 
 ### 📫 Contact

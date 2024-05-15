@@ -7,8 +7,8 @@ I'm currently working as a fullstack developer in Sydney, Australia.
 ### 🌿 Always Learning
 
 ```
-  languages = [PHP, Javascript, C, Python, HTML, CSS]
-  frameworks = [Laravel, NextJS, Tailwind]
+  languages = [PHP, JavaScript, C, Python, HTML, CSS]
+  frameworks = [Laravel, Tailwind]
   tools = [Docker, Figma]
   cms = [Drupal]
 ```

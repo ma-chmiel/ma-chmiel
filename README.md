@@ -1,10 +1,10 @@
 ### Hey, I'm Maja 🪩
 I'm a developer based in Australia. I graduated with a Bachelor's in Computer Science from UNSW in 2023, and also have a Bachelor in Design (majoring in Graphic Design). Feel free to check out my projects and learnings here to see the mix of tech and design magic!
 
-### 🪐 Current Endevors
+### 🍀 Current Endevors
 I'm currently working as a fullstack developer in Sydney, Australia.
 
-### 🔭 Always Learning
+### 🌿 Always Learning
 
 ```
   languages = [PHP, Javascript, C, Python, HTML, CSS]
